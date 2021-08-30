@@ -11,7 +11,6 @@ Lover of Technology and Coding :heartbeat:
 [![izaias97 GitHub stats](https://github-readme-stats.vercel.app/api?username=izaias97)](https://github.com/izaias97/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izaias97&layout=compact)](https://github.com/izaias97/github-readme-stats)
 
-
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white%22%3E</code>
 <code><img height="20" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white%22%3E</code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white%22%3E</code>
@@ -21,4 +20,3 @@ Lover of Technology and Coding :heartbeat:
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white%22%3E</code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white%22%3E</code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white%22%3E</code>
- 
